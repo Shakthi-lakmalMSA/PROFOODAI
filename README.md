@@ -27,7 +27,7 @@ This repository contains a complete solution for automating food label inspectio
 - **NVIDIA Jetson Nano Developer Kit:** [https://developer.nvidia.com/embedded/jetson-nano](https://developer.nvidia.com/embedded/jetson-nano)  
 - **TensorRT Documentation:** [https://developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)  
 
-**Demo Deck Presentation Links:**  https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/Ed_SH7i82shEv91IoHdOEAoBP3SsnTaxnne3qbkxz5B6PQ?e=0U9hFp
+**Demo Deck Presentation Links:**  https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/EbCdzMLqIk1OkPulliS8lOIBED1NL1RckC21aQ-ba5fCnA?e=KwK57G
 **License:** MIT License (see LICENSE file).  
 
 **Contact:** SHAKTHI.LAKMAL@studentambassadors.com 
