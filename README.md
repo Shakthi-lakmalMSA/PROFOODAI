@@ -28,6 +28,6 @@ This repository contains a complete solution for automating food label inspectio
 - **TensorRT Documentation:** [https://developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)  
 
 **Demo Deck Presentation Links:**  https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/EbCdzMLqIk1OkPulliS8lOIBED1NL1RckC21aQ-ba5fCnA?e=KwK57G
-**License:** MIT License (see LICENSE file).  
+**License:** MIT License.  
 
 **Contact:** SHAKTHI.LAKMAL@studentambassadors.com 
