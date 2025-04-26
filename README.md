@@ -9,7 +9,7 @@ This repository contains a complete solution for automating food label inspectio
 
  
 
-![Demo Preview](Demo.gif) 
+![Demo Preview](Demo2.gif) 
 
 
 
