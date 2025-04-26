@@ -7,6 +7,11 @@
 This repository contains a complete solution for automating food label inspection on production lines using AI. The system detects printed and non-printed expiration dates with 95% accuracy on edge devices, ensuring compliance and reducing manual inspection errors. Built with Azure Custom Vision, optimized for NVIDIA Jetson Nano, and deployed as a TensorRT engine for real-time performance (120 FPS).  
 
 
+ 
+
+![Demo Preview](Demo.gif) 
+
+
 
 ## Demo
 
